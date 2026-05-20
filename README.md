@@ -5,7 +5,7 @@
   <img src="[https://img.shields.io/badge/Informatics-Academic%20%2526%20Professional-2ea44f?style=flat-square](https://img.shields.io/badge/Informatics-Academic%20%2526%20Professional-2ea44f?style=flat-square)" alt="Field">
   <img src="[https://img.shields.io/badge/Focus-Machine%20Learning%20%2526%20Quantitative%20Analysis-blue?style=flat-square](https://img.shields.io/badge/Focus-Machine%20Learning%20%2526%20Quantitative%20Analysis-blue?style=flat-square)" alt="Focus">
 </p>
-
+html```
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fanny eko) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fann_yeko) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fannyekowicaksono) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@xdproject) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kurupiku) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fannyeko8@gmail.com) 
 
